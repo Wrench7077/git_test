@@ -1,3 +1,3 @@
 # git_test
-just testing out git and guthub and learning stuff with the odin project
+just testing out git and guthub and learning stuff
 "Hello Odin!"
